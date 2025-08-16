@@ -57,7 +57,7 @@ Me chamo Anna Leticia, tenho 19 anos e atualmente moro em João Pessoa/PB. Sou e
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaLeticiaTI&theme=tokyonight&layout=compact&custom_title=Programação&langs_count=4" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaLeticiaTI&theme=tokyonight&layout=compact&custom_title=Programação&langs_count=2" 
   />
 
 </p>
