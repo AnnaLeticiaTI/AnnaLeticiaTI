@@ -45,17 +45,10 @@ Me chamo Anna Leticia, tenho 19 anos e atualmente moro em João Pessoa/PB. Sou e
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" 
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width = 200
 />
 
 <br/>
 <br/>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaLeticiaTI&theme=tokyonight&layout=compact&custom_title=Programação&langs_count=2" width = 200
-  />
 
 </p>
