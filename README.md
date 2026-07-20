@@ -39,6 +39,15 @@ Me chamo Anna Leticia, tenho 19 anos e atualmente moro em João Pessoa/PB. Sou e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-line.svg)" 
+/>
+
 <br/>
 <br/>
 
