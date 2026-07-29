@@ -45,7 +45,7 @@ Me chamo Anna Leticia, tenho 19 anos e atualmente moro em João Pessoa/PB. Sou e
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR98RpgWg5ZhSITGHqRi_7ZJKSzvRmbiTZfm7Z84UWKlw&s=10" width="1000" height="1000"
+    src="icons/csharp/csharp-line.svg" width="1000" height="1000"
 />
 
 <br/>
