@@ -4,7 +4,7 @@
 
 Me chamo Anna Leticia, tenho 20 anos e atualmente moro em João Pessoa/PB. Sou estudante de ADS e Ciência de Dados com fome de aprendizado e oportunidades para projetos e crescer na área. Sou apaixonada por tecnologia, e sempre que posso estou fazendo cursos complementares de diversas linguagens para ampliar sempre o meu conhecimento, assim posso sempre agregar com conhecimento contínuo em meus recentes projetos e oportunidades dentro das empresas. 
 
-### 🤖 Linguagens e Tecnologias Em Aprendizado
+### 🤖 Linguagens em Aprendizado:
 
 <img 
     align="left" 
