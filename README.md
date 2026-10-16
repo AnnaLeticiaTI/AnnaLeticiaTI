@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Em Andamento`**
 
-Me chamo Anna Leticia, tenho 20 anos e atualmente moro em João Pessoa/PB. Sou estudante de ADS e Ciência de Dados. Sou apaixonada por tecnologia e crescimento contínuo, sempre que posso estou fazendo cursos complementares de diversas linguagens de programação para ampliar sempre o meu conhecimento, assim posso sempre agregar mais conteúdos aos meus recentes projetos e oportunidades dentro das empresas. 
+Me chamo Anna Leticia, tenho 20 anos e atualmente moro em João Pessoa/PB. No momento estou fazendo duas faculdades: ADS e Ciência de Dados. Sou apaixonada por tecnologia e crescimento contínuo, sempre que posso estou fazendo cursos complementares de diversas linguagens de programação para ampliar sempre o meu conhecimento, assim posso sempre agregar mais conteúdos aos meus recentes projetos e oportunidades dentro das empresas. 
 
 ### 🤖 Linguagens em Aprendizado:
 
